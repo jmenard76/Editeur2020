@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+	<Transactions>
+    <Transaction>2020/11/21 19:40:22.000.767,=C:\Users\jmenard\Documents\Embarcadero\Studio\Projets\Tableau 2020\Unit3.pas</Transaction>
+    <Transaction>2020/11/21 19:40:33.000.866,C:\Users\jmenard\Documents\Embarcadero\Studio\Projets\Tableau 2020\APropos.dfm=C:\Users\jmenard\Documents\Embarcadero\Studio\Projets\Tableau 2020\Unit3.dfm</Transaction>
+    <Transaction>2020/11/21 19:40:33.000.866,C:\Users\jmenard\Documents\Embarcadero\Studio\Projets\Tableau 2020\APropos.pas=C:\Users\jmenard\Documents\Embarcadero\Studio\Projets\Tableau 2020\Unit3.pas</Transaction>
+    <Transaction>2020/11/21 19:47:07.000.299,C:\Users\jmenard\Documents\Embarcadero\Studio\Projets\Tableau 2020\APropos.pas=</Transaction>
+    <Transaction>2020/11/21 19:52:33.000.382,=C:\Users\jmenard\Documents\Embarcadero\Studio\Projets\Tableau 2020\Unit3.pas</Transaction>
+    <Transaction>2020/11/21 19:52:43.000.707,C:\Users\jmenard\Documents\Embarcadero\Studio\Projets\Tableau 2020\Unit3.dfm=C:\Users\jmenard\Documents\Embarcadero\Studio\Projets\Tableau 2020\Tableau3.dfm</Transaction>
+    <Transaction>2020/11/21 19:52:43.000.707,C:\Users\jmenard\Documents\Embarcadero\Studio\Projets\Tableau 2020\Unit3.pas=C:\Users\jmenard\Documents\Embarcadero\Studio\Projets\Tableau 2020\Tableau3.pas</Transaction>
+    <Transaction>2020/11/21 19:55:25.000.383,C:\Users\jmenard\Documents\Embarcadero\Studio\Projets\Tableau 2020\Tableau3.pas=</Transaction>
+    <Transaction>2020/11/21 20:08:30.000.696,=C:\Users\jmenard\Documents\Embarcadero\Studio\Projets\Tableau 2020\Unit3.pas</Transaction>
+    <Transaction>2020/11/21 20:08:43.000.318,C:\Users\jmenard\Documents\Embarcadero\Studio\Projets\Tableau 2020\Tableau3.dfm=C:\Users\jmenard\Documents\Embarcadero\Studio\Projets\Tableau 2020\Unit3.dfm</Transaction>
+    <Transaction>2020/11/21 20:08:43.000.318,C:\Users\jmenard\Documents\Embarcadero\Studio\Projets\Tableau 2020\Tableau3.pas=C:\Users\jmenard\Documents\Embarcadero\Studio\Projets\Tableau 2020\Unit3.pas</Transaction>
+    <Transaction>2020/11/21 20:11:16.000.794,C:\Users\jmenard\Documents\Embarcadero\Studio\Projets\Tableau 2020\Tableau.dproj=C:\Users\jmenard\Documents\Embarcadero\Studio\Projets\Tableau 2020\Tableau.dproj</Transaction>
+    <Transaction>2020/11/21 20:23:53.000.864,C:\Users\jmenard\Documents\Embarcadero\Studio\Projets\Tableau 2020\Tableau3.pas=</Transaction>
+    <Transaction>2020/11/21 20:45:06.000.450,=C:\Users\jmenard\Documents\Embarcadero\Studio\Projets\Tableau 2020\Unit3.pas</Transaction>
+    <Transaction>2020/11/21 20:45:25.000.406,C:\Users\jmenard\Documents\Embarcadero\Studio\Projets\Tableau 2020\Tableau3.dfm=C:\Users\jmenard\Documents\Embarcadero\Studio\Projets\Tableau 2020\Unit3.dfm</Transaction>
+    <Transaction>2020/11/21 20:45:25.000.406,C:\Users\jmenard\Documents\Embarcadero\Studio\Projets\Tableau 2020\Tableau3.pas=C:\Users\jmenard\Documents\Embarcadero\Studio\Projets\Tableau 2020\Unit3.pas</Transaction>
+    <Transaction>2020/11/21 20:46:22.000.257,=C:\Users\jmenard\Documents\Embarcadero\Studio\Projets\Tableau 2020\Unit4.pas</Transaction>
+    <Transaction>2020/11/21 20:46:31.000.255,C:\Users\jmenard\Documents\Embarcadero\Studio\Projets\Tableau 2020\Tableau4.dfm=C:\Users\jmenard\Documents\Embarcadero\Studio\Projets\Tableau 2020\Unit4.dfm</Transaction>
+    <Transaction>2020/11/21 20:46:31.000.255,C:\Users\jmenard\Documents\Embarcadero\Studio\Projets\Tableau 2020\Tableau4.pas=C:\Users\jmenard\Documents\Embarcadero\Studio\Projets\Tableau 2020\Unit4.pas</Transaction>
+    <Transaction>2020/11/21 21:02:06.000.057,C:\Users\jmenard\Documents\Embarcadero\Studio\Projets\Tableau 2020\Editeur.dproj=C:\Users\jmenard\Documents\Embarcadero\Studio\Projets\Tableau 2020\Tableau.dproj</Transaction>
+    <Transaction>2020/12/05 21:03:17.000.663,=C:\Users\jmenard\Documents\Embarcadero\Studio\Projets\Tableau 2020\UnitAPropos.pas</Transaction>
+  </Transactions>
+</BorlandProject>
